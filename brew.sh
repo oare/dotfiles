@@ -115,6 +115,8 @@ brew install wget
 brew install zsh
 brew install zsh-completions
 brew install zsh-syntax-highlighting
+brew install node
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
 
 # My casks
 
