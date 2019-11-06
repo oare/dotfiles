@@ -100,13 +100,13 @@ source $ZSH/oh-my-zsh.sh
 
 ########################## Customs Edits
 
-export ANDROID_HOME=$HOME/Library/Android/sdk
-export PATH=$ANDROID_HOME/tools:$PATH
-export PATH=$ANDROID_HOME/tools/bin:$PATH
-export PATH=$ANDROID_HOME/platform-tools:$PATH
-export PATH=$ANDROID_HOME/build-tools/$(ls -tr $ANDROID_HOME/build-tools/ | tail -1):$PATH
-export ANDROID_NDK_HOME=/usr/local/share/android-ndk
-export PATH="/usr/local/anaconda3/bin:$PATH"
+# export ANDROID_HOME=$HOME/Library/Android/sdk
+# export PATH=$ANDROID_HOME/tools:$PATH
+# export PATH=$ANDROID_HOME/tools/bin:$PATH
+# export PATH=$ANDROID_HOME/platform-tools:$PATH
+# export PATH=$ANDROID_HOME/build-tools/$(ls -tr $ANDROID_HOME/build-tools/ | tail -1):$PATH
+# export ANDROID_NDK_HOME=/usr/local/share/android-ndk
+# export PATH="/usr/local/anaconda3/bin:$PATH"
 
 
 ########################## POWERLEVEL9K Config
